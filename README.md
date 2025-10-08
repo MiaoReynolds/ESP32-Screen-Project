@@ -1,1 +1,23 @@
 # ESP32-Screen-Project
+
+This project showcases a simple yet effective Pomodoro timer built with an ESP32 and an integrated 1.3 OLED display with knob and buttons. It can be used for more interesting projects as well
+
+## 🧰 Hardware Components
+- A 1.3-inch SH1106 OLED display connected via I2C (SDA=GPIO19, SCL=GPIO23)
+- An EC11 rotary encoder (A=GPIO5, B=GPIO17, Push=GPIO18)
+- A Confirm button on GPIO22 (functions the same as the rotary push button)
+- A Back button on GPIO16 (used to exit countdown and return to main menu)
+- Picture of the complete set. More pictures will be released soon.
+
+![ESP32 Screen with Knob](images/IMG_9665.JPG)
+<!---
+The case file for 3DP can be downloaded below. Or you can navigate to 3DPfile folder under this repository to get the file. (Raspberry Pi 5 case will be released soon)
+👉 [Download the 3DP file](https://github.com/MiaoReynolds/Raspberry-Pi-with-screen-and-keyboard-3D-print/raw/main/3DPfile/)
+-->
+---
+| Parts | Link |
+|--------|------|
+| Screen and Knob | Link: |
+| ESP32 | Link: |
+| Button | Link: |
+| battery | Link: |
