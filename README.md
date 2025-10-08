@@ -10,6 +10,19 @@ This project showcases a simple yet effective Pomodoro timer built with an ESP32
 - Picture of the complete set. More pictures will be released soon.
 
 ![ESP32 Screen with Knob](images/IMG_9665.JPG)
+
+---
+
+| OLED Pin | GPIO | Remark        |
+|----------|------|---------------|
+| Confirm  | 22   | Panel button  |
+| SDA      | 19   | OLED          |
+| SCL      | 23   | OLED          |
+| Push     | 18   | Encoder button|
+| TRA      | 5    | EC11 Encoder  |
+| TRB      | 17   | EC11 Encoder  |
+| Back     | 16   | Panel button  |
+
 <!---
 The case file for 3DP can be downloaded below. Or you can navigate to 3DPfile folder under this repository to get the file. (Raspberry Pi 5 case will be released soon)
 👉 [Download the 3DP file](https://github.com/MiaoReynolds/Raspberry-Pi-with-screen-and-keyboard-3D-print/raw/main/3DPfile/)
