@@ -40,7 +40,7 @@ The case file for 3DP can be downloaded below. Or you can navigate to 3DPfile fo
 -->
 ---
 
-![ESP32 Screen with Knob](images/part_list.JPG)
+![Parts](images/part_list.JPG)
 
 | Parts | Link |
 |--------|------|
