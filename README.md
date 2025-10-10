@@ -39,6 +39,9 @@ The case file for 3DP can be downloaded below. Or you can navigate to 3DPfile fo
 👉 [Download the 3DP file](https://github.com/MiaoReynolds/Raspberry-Pi-with-screen-and-keyboard-3D-print/raw/main/3DPfile/)
 -->
 ---
+
+![ESP32 Screen with Knob](images/part_list.JPG)
+
 | Parts | Link |
 |--------|------|
 | Screen and Knob | Link: |
