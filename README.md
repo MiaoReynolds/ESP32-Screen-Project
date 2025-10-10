@@ -40,7 +40,8 @@ The case file for 3DP can be downloaded below. Or you can navigate to 3DPfile fo
 -->
 ---
 The parts needed for the whole project is shown below:
-![Parts](images/part_list.JPG)
+
+![Parts](images/part_list.jpg)
 
 
 | Parts | Link |
